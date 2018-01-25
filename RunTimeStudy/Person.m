@@ -25,6 +25,7 @@
         printf("name:%s  type:%s\n", name, type);
     }
     free(ivarList);
+    
 }
 
 + (void)propertyList {
