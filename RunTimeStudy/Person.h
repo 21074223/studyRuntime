@@ -17,4 +17,7 @@
 @property (nonatomic, strong) NSString *name;
 @property (nonatomic, assign) NSInteger age;
 
+- (void)say:(NSString *)something;
+- (NSString *)des;
+
 @end
